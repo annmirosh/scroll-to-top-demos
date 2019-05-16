@@ -1,0 +1,7 @@
+{
+  "name": "vanila-js-demo",
+  "description": "This project shows how to use the scroll-to-top-btn web component in the simple vanilla js project",
+  "dependencies": {
+    "scroll-to-top-btn": "0.0.4"
+  }
+}
